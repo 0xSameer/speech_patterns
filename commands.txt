@@ -1,0 +1,1 @@
+jt -t onedork -cellw 1100 -lineh 170 -f fira -fs 115
